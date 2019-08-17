@@ -1,5 +1,4 @@
 Jotform Desktop Application
-
 ============
 
 ## A desktop application developed to running on the jotfom.com website.
